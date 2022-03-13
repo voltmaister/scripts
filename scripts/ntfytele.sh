@@ -2,7 +2,7 @@
 #connects the ntfy[telegram] with the @Archupdate_bot
 #and sends a test message
 
-token="5195491516:AAEhpAF3PqpMDPtmeY6x0Hgm9tPpMS8CGfE"
+token= "your_token"
 
 yay python-pip
 yay dbus-python
